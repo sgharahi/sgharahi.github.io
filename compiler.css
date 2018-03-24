@@ -36,10 +36,10 @@ button.take_me_home_button {
 	height: 50px;
 }
 
-button.compiler_button {
+button.side_projects_button {
 	position: absolute;
-    left: 5px;
-    top: 86px;
+    left: 205px;
+    top: 5px;
 	background-color: yellow;
 	width: 200px;
 	height: 50px;
