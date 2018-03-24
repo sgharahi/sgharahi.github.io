@@ -1,0 +1,70 @@
+body {
+    background-color: lightgreen;	
+}
+
+h1 {
+	text-align:center;
+    color: purple;
+    margin-left: 20px;	
+}
+
+hr.top {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+	position: absolute;
+	top: 80px;
+	left: 220px;
+}
+
+div.vertical_line {
+	position: absolute;
+    height:100%; 
+    width:2px;
+	margin-left: 200px;
+	margin-top: -1px;
+	color: solid black;
+    background:#000;
+}
+
+button.about_me_button {
+	position: absolute;
+    left: 5px;
+    top: 86px;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+}
+
+button.side_projects_button {
+	position: absolute;
+    left: 5px;
+    top: 136px;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+}
+
+button.interests_button {
+	position: absolute;
+    left: 5px;
+    top: 186px;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+}
+
+button.contact_me_button {
+	position: absolute;
+    left: 5px;
+    top: 236px;
+	background-color: yellow;
+	width: 200px;
+	height: 50px;
+}
