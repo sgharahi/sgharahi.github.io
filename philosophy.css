@@ -43,11 +43,11 @@ button.take_me_home_button {
 	height: 50px;
 }
 
-button.philosophy_button {
+button.interests_button {
 	cursor: pointer;
 	position: absolute;
-    left: 5px;
-    top: 86px;
+    left: 205px;
+    top: 5px;
 	background-color: yellow;
 	width: 200px;
 	height: 50px;
