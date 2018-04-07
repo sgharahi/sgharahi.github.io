@@ -43,31 +43,11 @@ button.take_me_home_button {
 	height: 50px;
 }
 
-button.website_button {
+button.side_projects_button {
 	cursor: pointer;
 	position: absolute;
-    left: 5px;
-    top: 86px;
-	background-color: yellow;
-	width: 200px;
-	height: 50px;
-}
-
-button.compiler_button {
-	cursor: pointer;
-	position: absolute;
-    left: 5px;
-    top: 136px;
-	background-color: yellow;
-	width: 200px;
-	height: 50px;
-}
-
-button.browser_button {
-	cursor: pointer;
-	position: absolute;
-    left: 5px;
-    top: 186px;
+    left: 205px;
+    top: 5px;
 	background-color: yellow;
 	width: 200px;
 	height: 50px;

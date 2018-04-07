@@ -34,6 +34,7 @@ div.vertical_line {
 }
 
 button.about_me_button {
+    cursor: pointer;
 	position: absolute;
     left: 5px;
     top: 86px;
@@ -43,6 +44,7 @@ button.about_me_button {
 }
 
 button.side_projects_button {
+	cursor: pointer;
 	position: absolute;
     left: 5px;
     top: 136px;
@@ -52,6 +54,7 @@ button.side_projects_button {
 }
 
 button.interests_button {
+	cursor: pointer;
 	position: absolute;
     left: 5px;
     top: 186px;
@@ -61,6 +64,7 @@ button.interests_button {
 }
 
 button.contact_me_button {
+	cursor: pointer;
 	position: absolute;
     left: 5px;
     top: 236px;

@@ -28,6 +28,7 @@ div.vertical_line {
 }
 
 button.take_me_home_button {
+	cursor: pointer;
 	position: absolute;
     left: 5px;
     top: 5px;
